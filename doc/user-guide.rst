@@ -1,11 +1,12 @@
 ==========
-Hướng dẫn API
+Hướng dẫn người sử dụng
 ==========
 
-This user guide covers using CKAN's web interface to organize, publish and find
-data. CKAN also has a powerful API (machine interface), which makes it easy to
-develop extensions and links with other information systems. The API is
-documented in :doc:`/api/index`.
+Hướng dẫn sử dụng này bao gồm sử dụng giao diện web, để tổ chức, xuất bản
+và tìm dữ liệu.
+
+Một số tính năng UI web liên quan đến quản trị trang web chỉ khả dụng cho 
+người dùng có phân quyền là sysadmin và đây là tài liệu trong :doc:`sysadmin-guide`.
 
 Some web UI features relating to site administration are available only to
 users with sysadmin status, and are documented in :doc:`sysadmin-guide`.

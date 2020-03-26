@@ -12,7 +12,7 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng Dữ li�
 .. toctree::
   :maxdepth: 2
 
-  api-guide
+  user-guide
   sysadmin-guide
   maintaining/index
   api/index
