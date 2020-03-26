@@ -6,19 +6,18 @@
 Welcome to Open Data's documentation!test
 =====================================
 
+Contents:
+
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-                     
+   :glob:
 
-  
-
+   
 
 
-Full table of contents
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Indices and tables
+:ref:`genindex`
+:ref:`modindex`
+:ref:`search`
 
