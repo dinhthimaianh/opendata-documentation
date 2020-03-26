@@ -201,15 +201,6 @@ html_sidebars = {
     '**':  ['globaltoc.html'],
 }
 
-html_context = {
-    'latest_release_tag_value': latest_release_tag_value,
-    'is_master': is_master,
-    'is_supported': is_supported,
-    'is_latest_version': is_latest_version,
-    'extra_css_files': extra_css_files,
-    'latest_minor_version': latest_minor_version,
-}
-
 # The style sheet to use for HTML and HTML Help pages. A file of that name
 # must exist either in Sphinx' static/ path, or in one of the custom paths
 # given in html_static_path.
