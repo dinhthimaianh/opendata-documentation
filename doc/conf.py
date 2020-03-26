@@ -78,7 +78,7 @@ rst_epilog = '''
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = ['sphinx.ext.autodoc', 'sphinx.ext.todo',
-    'sphinx.ext.autosummary', 'ckan.plugins.toolkit_sphinx_extension']
+    'sphinx.ext.autosummary', ]
 autodoc_member_order = 'bysource'
 todo_include_todos = True
 
