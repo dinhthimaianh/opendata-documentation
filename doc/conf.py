@@ -112,9 +112,9 @@ html_show_sphinx = False
 # built documents.
 #
 # The short X.Y version.
-version = ckan.__version__.rstrip('abcdefgh')
+version = u''
 # The full version, including alpha/beta/rc tags.
-release = ckan.__version__
+release =  u'1.0'
 version_re = None
 point_releases_ = None
 
