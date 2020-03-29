@@ -30,50 +30,7 @@ import subprocess
 
 rst_epilog = '''
 
-.. |virtualenv_parent_dir| replace:: /usr/lib/ckan
-.. |virtualenv| replace:: |virtualenv_parent_dir|/default
-.. |activate| replace:: . |virtualenv|/bin/activate
-.. |config_parent_dir| replace:: /etc/ckan
-.. |config_dir| replace:: |config_parent_dir|/default
-.. |production.ini| replace:: |config_dir|/production.ini
-.. |development.ini| replace:: |config_dir|/development.ini
-.. |git_url| replace:: \https://github.com/ckan/ckan.git
-.. |postgres| replace:: PostgreSQL
-.. |database| replace:: ckan_default
-.. |database_user| replace:: ckan_default
-.. |datastore| replace:: datastore_default
-.. |datastore_user| replace:: datastore_default
-.. |test_database| replace:: ckan_test
-.. |test_datastore| replace:: datastore_test
-.. |apache_config_file| replace:: /etc/apache2/sites-available/ckan_default.conf
-.. |apache.wsgi| replace:: |config_dir|/apache.wsgi
-.. |data_dir| replace:: |config_dir|/data
-.. |sstore| replace:: |config_dir|/sstore
-.. |storage_parent_dir| replace:: /var/lib/ckan
-.. |storage_dir| replace:: |storage_parent_dir|/default
-.. |storage_path| replace:: |storage_parent_dir|/default
-.. |reload_apache| replace:: sudo service apache2 reload
-.. |restart_apache| replace:: sudo service apache2 restart
-.. |restart_solr| replace:: sudo service jetty8 restart
-.. |solr| replace:: Solr
-.. |restructuredtext| replace:: reStructuredText
-.. |nginx| replace:: Nginx
-.. |sqlite| replace:: SQLite
-.. |python| replace:: Python
-.. |sqlalchemy| replace:: SQLAlchemy
-.. |javascript| replace:: JavaScript
-.. |apache| replace:: Apache
-.. |nginx_config_file| replace:: /etc/nginx/sites-available/ckan
-.. |reload_nginx| replace:: sudo service nginx reload
-.. |jquery| replace:: jQuery
-.. |nodejs| replace:: Node.js
 
-.. _Jinja2: http://jinja.pocoo.org/
-.. _CKAN front page: http://127.0.0.1:5000
-.. _bootstrap: http://getbootstrap.com/2.3.2/
-.. _CKAN issue tracker: https://github.com/ckan/ckan/issues
-
-'''
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.

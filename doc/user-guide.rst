@@ -38,9 +38,6 @@ Cách sử dụng
 
 Để tạo ID người dùng, sử dụng link "Đăng ký". Web sẽ yêu cầu như sau:
 
-To create a user ID, use the "Register" link at the top of any page. CKAN will
-ask for the following:
-
 * *Tên tài khoản* -- Các ký tự được sử dụng là chữ cái, số, và ký tự _ .
 
 * *Họ và tên* -- Sẽ được hiện thị trên hồ sơ của bạn.

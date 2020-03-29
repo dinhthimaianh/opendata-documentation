@@ -25,8 +25,3 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng Dữ li�
 
    :doc:`contents`
 
-.. note::
-
-   These docs are maintained by the CKAN development team. CKAN and its
-   documentation are free and open source, and contributions are welcome.
-   To contribute to these docs, see :doc:`/contributing/documentation`.

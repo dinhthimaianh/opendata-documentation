@@ -18,90 +18,68 @@ sẵn thông qua giao diện người dùng, tại ``http://<my-url>/ckan-admin/
 Tại đây bạn có thể chỉnh sửa như sau:
 
 Tiêu đề trang
-    This title is used in the HTML <title> of pages served by CKAN (which may
-    be displayed on your browser's title bar). For example if your site title is
-    "CKAN Demo", the home page is called "Welcome - CKAN Demo". The site title is
-    also used in a few other places, e.g. in the alt-text of the main site logo.
+    Tiêu đề này được sử dụng trong HTML <title> của trang web. Ví dụ: Nếu tiêu 
+    đề tran web của bạn là 'Dữ liệu mở', trang chủ sẽ hiện thị 'Chào đón - Dữ liệu mở'.
 
-Style
-    Choose one of five colour schemes for the default theme.
+Kiểu trang trí
+    Chọn một trong năm bảng màu cho chủ đề mặc định.
 
-Site tag line
-    This is not used in CKAN's current default themes, but may be used in
-    future.
+Đặt thẻ đánh dấu dòng
+    Điều này không được sử dụng trong các chủ đề mặc định hiện tại của web, nhưng có 
+    thể được sử dụng trong tương lai.
 
-Site tag logo
-    A URL for the site logo, used at the head of every page of CKAN.
+Logo trang web
+    Một URL cho logo trang web, được sử dụng ở đầu mỗi trang của web.
 
-About
-    Text that appears on the "about" page, ``http://<my-ckan-url>/about``. You
-    can use `Markdown`_ here. If it is left empty, a standard text describing CKAN
-    will appear.
+Thông tin
+    Văn bản xuất hiện trên trang 'Thông tin', `` http: // <my-url> / about``. 
+    Bạn có thể sử dụng `Markdown`_ tại đây. Nếu nó bị bỏ trống, một văn bản tiêu 
+    chuẩn mô tả web sẽ xuất hiện.
 
 .. _Markdown: http://daringfireball.net/projects/markdown/basics
 
-Intro text
-    This text appears prominently on the home page of your site.
-
-Custom CSS
-    For simple style changes, you can add CSS code here which will be added to
-    the ``<head>`` of every page.
+Đoạn văn bản giới thiệu
+    Văn bản này xuất hiện trên trang chủ của trang web của bạn.
 
 -----------------------------------
-Managing organizations and datasets
+Quản lý tổ chức và bộ dữ liệu
 -----------------------------------
 
-A sysadmin user has full access to user accounts, organizations and datasets.
-For example, you have access to every organization as if you were a member of
-that organization. Thus most management operations are done in exactly the same
-way as in the normal web interface.
+Sysadmin có toàn quyền truy cập vào tài khoản người dùng, tổ chức và bộ dữ liệu. 
+Ví dụ: bạn có quyền truy cập vào mọi tổ chức như thể bạn là thành viên của tổ chức đó. 
 
-For example, to add or delete users to an organization, change a user's role in
-the organization, delete the organization or edit its description, etc, visit
-the organization's home page. You will see the 'Admin' button as if you were a
-member of the organization. You can use this to perform all organization admin
-functions. For details, see the :doc:`user-guide`.
+Ví dụ: để thêm hoặc xóa người dùng vào một tổ chức, thay đổi vai trò của người dùng 
+trong tổ chức, xóa tổ chức hoặc chỉnh sửa mô tả của tổ chức đó, v.v., hãy truy cập 
+trang chủ của tổ chức.Bạn sẽ thấy nút "Quản lý" trên web như thể bạn là thành viên 
+của tổ chức. Bạn có thể sử dụng điều này để thực hiện tất cả các chức năng quản trị tổ chức.
 
-Similarly, to edit, update or delete a dataset, go to the dataset page and use
-the 'Edit' button. As an admin user you can see all datasets including those
-that are private to an organization. They will show up when doing a dataset
-search.
+Tương tự, để chỉnh sửa, cập nhật hoặc xóa tập dữ liệu, hãy truy cập trang tập dữ liệu và sử 
+dụng nút 'Hiệu chỉnh'. Là người dùng quản trị, bạn có thể thấy tất cả các bộ dữ liệu bao gồm 
+cả những bộ trong chế độ riêng tư cho một tổ chức.
 
-Moving a dataset between organizations
+Di chuyển một tập dữ liệu giữa các tổ chức
 ======================================
 
-To move a dataset between organizations, visit the dataset's Edit page. Choose
-the appropriate entry from the "organization" drop-down list, and press "Save".
-
-.. image:: /images/move_dataset_between_organizations.jpg
+Để di chuyển tập dữ liệu giữa các tổ chức, hãy truy cập trang dữ liệu hiệu chỉnh. Chọn mục 
+thích hợp từ danh sách thả xuống của 'Tổ chức', và nhấn vào 'Lưu'.
 
 -----------------------------
-Permanently deleting datasets
+Xóa vĩnh viễn bộ dữ liệu
 -----------------------------
 
-A dataset which has been deleted is not permanently removed from CKAN; it is
-simply marked as 'deleted' and will no longer show up in search, etc. The
-dataset's URL cannot be re-used for a new dataset.
+Một bộ dữ liệu đã bị xóa không bị xóa vĩnh viễn khỏi web; nó chỉ đơn giản được đánh dấu là 
+'đã xóa' và sẽ không còn hiển thị trong tìm kiếm, v.v. Không thể sử dụng lại bộ dữ liệu URL 
+cho bộ dữ liệu mới.
 
-To permanently delete ("purge") a dataset:
+Để xóa vĩnh viễn một bộ dữ liệu:
 
-* Navigate to the dataset's "Edit" page, and delete it.
-* Visit ``http://<my-ckan-url>/ckan-admin/trash/``.
+*Điều hướng đến tập dữ liệu 'Hiệu chỉnh' và 'Xóa' tập dữ liệu.
+* Truy cập ``http://<my-url>/ckan-admin/trash/``.
 
-This page shows all deleted datasets and allows you to delete them permanently.
-
-.. warning::
-
-    This operation cannot be reversed!
-
-.. note::
-
-    At present, it is not possible to purge organizations or groups using the
-    web UI. This can only be done with access to the server, by directly deleting
-    them from CKAN's database.
+Trang này hiển thị tất cả các bộ dữ liệu đã xóa và cho phép bạn xóa chúng vĩnh viễn. 
 
 --------------
-Managing users
+Quản lý người dùng
 --------------
 
 To find a user's profile, go to ``http://<my-ckan-url>/user/``. You can search
