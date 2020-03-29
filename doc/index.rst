@@ -14,12 +14,6 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng Dữ li�
 
   user-guide
   sysadmin-guide
-  maintaining/index
-  api/index
-  extensions/index
-  theming/index
-  contributing/index
-  changelog
 
 .. seealso::
 

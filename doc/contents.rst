@@ -6,7 +6,6 @@ Mục lục
 
    user-guide
    sysadmin-guide
-   maintaining/index
    api/index
    extensions/index
    theming/index
