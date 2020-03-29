@@ -6,8 +6,4 @@ Mục lục
 
    user-guide
    sysadmin-guide
-   api/index
-   extensions/index
-   theming/index
-   contributing/index
-   changelog
+
