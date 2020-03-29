@@ -2,50 +2,22 @@
 Hướng dẫn sysadmin
 ==============
 
-This guide covers the administration features of CKAN 2.0, such as managing
-users and datasets. These features are available via the web user interface to
-a user with sysadmin rights. The guide assumes familiarity with the
-:doc:`user-guide`.
-
-Certain administration tasks are not available through the web UI but need
-access to the server where CKAN is installed. These include the range of
-configuration options using the site's "config" file, documented in
-:doc:`/maintaining/configuration`, and those available via
-:doc:`/maintaining/paster`.
-
-.. warning::
-
-    A sysadmin user can access and edit any organizations, view and change user
-    details, and permanently delete datasets. You should carefully consider who has
-    access to a sysadmin account on your CKAN system.
-
----------------------------
-Creating a sysadmin account
----------------------------
-
-Normally, a sysadmin account is created as part of the process of setting up
-CKAN. If one does not already exist, you will need to create a sysadmin user,
-or give sysadmin rights to an existing user. To do this requires access to the
-server; see :ref:`create-admin-user` for details.  If another organization is hosting
-CKAN, you will need to ask them to create a sysadmin user.
-
-Adding more sysadmin accounts is done in the same way. It cannot be done via
-the web UI.
-
-.. _admin page:
+Hướng dẫn này bao gồm các tính quản trị: quản lý người dùng và bộ dữ liệu.
+Người dùng sysadmin có thể truy cập và chỉnh sửa bất kỳ tổ chức nào, xem và 
+thay đổi chi tiết người dùng và xóa vĩnh viễn bộ dữ liệu. 
 
 -------------------------
-Customizing look and feel
+Tùy chỉnh giạo diện
 -------------------------
 
-Some simple customizations to customize the 'look and feel' of your CKAN site
-are available via the UI, at ``http://<my-ckan-url>/ckan-admin/config/``.
+Một số tùy chỉnh đơn giản để tùy chỉnh giao diện của trang web của bạn có 
+sẵn thông qua giao diện người dùng, tại ``http://<my-url>/ckan-admin/config/``.
 
-.. image:: /images/customize_look_and_feel.jpg
+.. image:: /images/Tuy-chinh-giao-dien-sysadmin.png
 
-Here you can edit the following:
+Tại đây bạn có thể chỉnh sửa như sau:
 
-Site title
+Tiêu đề trang
     This title is used in the HTML <title> of pages served by CKAN (which may
     be displayed on your browser's title bar). For example if your site title is
     "CKAN Demo", the home page is called "Welcome - CKAN Demo". The site title is

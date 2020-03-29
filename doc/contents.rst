@@ -1,5 +1,5 @@
 ======================
-Full table of contents
+Mục lục
 ======================
 
 .. toctree::
