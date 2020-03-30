@@ -32,7 +32,7 @@ Logo trang web
     Một URL cho logo trang web, được sử dụng ở đầu mỗi trang của web.
 
 Thông tin
-    Văn bản xuất hiện trên trang 'Thông tin', ``http://<my-url>/about``. 
+    Văn bản xuất hiện trên trang "Thông tin", ``http://<my-url>/about``. 
     Bạn có thể sử dụng `Markdown`_ tại đây. Nếu nó bị bỏ trống, một văn bản tiêu 
     chuẩn mô tả web sẽ xuất hiện.
 
@@ -74,6 +74,7 @@ cho bộ dữ liệu mới.
 Để xóa vĩnh viễn một bộ dữ liệu:
 
 * Điều hướng đến tập dữ liệu 'Hiệu chỉnh' và 'Xóa' tập dữ liệu.
+
 * Truy cập ``http://<my-url>/ckan-admin/trash/``.
 
 Trang này hiển thị tất cả các bộ dữ liệu đã xóa và cho phép bạn xóa chúng vĩnh viễn. 
