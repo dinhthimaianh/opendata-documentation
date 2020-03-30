@@ -33,9 +33,9 @@ sửa bởi bất kỳ người dùng đã đăng nhập vào.
 Cách sử dụng
 ==========================
 
-------------------------
+----------
 Đăng ký và đăng nhập
------------------------
+----------
 
 Để tạo ID người dùng, sử dụng link "Đăng ký". Web sẽ yêu cầu như sau:
 
