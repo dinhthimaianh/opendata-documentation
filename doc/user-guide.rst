@@ -29,12 +29,13 @@ Khi muốn công khai bộ dữ liệu thì yêu cầu một mức ủy quyền 
 Nếu bộ dữ liệu không thuộc sở hữu của bất kỳ tổ chức nào, các bộ dữ liệu như vậy có thể được chỉnh 
 sửa bởi bất kỳ người dùng đã đăng nhập vào.
 
-----------
-Cách sử dụng
-----------
 
-Đăng ký và đăng nhập
+Cách sử dụng
 ==========================
+
+------------------------
+Đăng ký và đăng nhập
+-----------------------
 
 Để tạo ID người dùng, sử dụng link "Đăng ký". Web sẽ yêu cầu như sau:
 
