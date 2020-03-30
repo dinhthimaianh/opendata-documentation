@@ -6,4 +6,5 @@ Mục lục
 
    user-guide
    sysadmin-guide
+   api/index
 

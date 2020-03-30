@@ -14,4 +14,5 @@ Chào mừng bạn đến với tài liệu hướng dẫn sử dụng Dữ li�
 
   user-guide
   sysadmin-guide
+  api/index
 
