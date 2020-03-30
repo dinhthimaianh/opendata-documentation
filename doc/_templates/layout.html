@@ -1,9 +1,7 @@
-{# {% extends "!layout.html" %}#}
+{% extends "!layout.html" %}
 {% block sidebartitle %}
 	<a href="{{ pathto(master_doc) }}">
-	{# Not strictly valid HTML, but it's the only way to display/scale
-	   it properly, without weird scripting or heaps of work
-	#}
+
 	<img src="{{ pathto('_static/vnpt-it.png', 1) }}" class="logo" alt="Logo"/>
   </a>
 
@@ -15,5 +13,5 @@
 	  </div>
 	{% endif %}
   {% endif %}
-  {% include "searchbox.html" %}
+  {#{% include "searchbox.html" %} #}
 {% endblock %}
