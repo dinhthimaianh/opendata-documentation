@@ -12,23 +12,31 @@ Ví dụ sử dụng API, ứng dụng của bạn có thể:
 
   http://203.162.141.37:18080/api/3/action/package_list
 
+
   http://203.162.141.37:18080/api/3/action/group_list
 
+
   http://203.162.141.37:18080/api/3/action/tag_list
+
 
 * Lấy một JSON đầy đủ của một bộ dữ liệu, tài nguyên hoặc đối tượng khác:
 
   http://203.162.141.37:18080/api/3/action/tag_show?id=giao-duc
 
+
   http://203.162.141.37:18080/api/3/action/package_show?id=dataset_2020_36676
 
+
   http://203.162.141.37:18080/api/3/action/group_show?id=giao-thong
+
 
 * Tìm kiếm các gói hoặc tài nguyên phù hợp với một truy vấn:
 
   http://203.162.141.37:18080/api/3/action/package_search?q=spending
 
+
   http://203.162.141.37:18080/api/3/action/resource_search?query=name:District%20Names
+
 
 * Tạo, cập nhật và xóa bộ dữ liệu, tài nguyên và các đối tượng khác
 
@@ -46,7 +54,7 @@ Hỗ trợ JSONP
 Hàm được đặt tên trong tham số 'callback'.
 Ví dụ một yêu cầu:
 
-GET /api/rest/dataset/pollution_stats?callback=name-of-callback-function
+``GET /api/rest/dataset/pollution_stats?callback=name-of-callback-function``
 
 .. note :: Chỉ hoạt động cho các yêu cầu GET
 
@@ -60,15 +68,11 @@ mở URL này trong trình duyệt của bạn:
 
 http://203.162.141.37:18080/api/3/action/group_list
 
-Hoặc, để tìm kiếm bộ dữ liệu (gói) khớp với truy vấn tìm kiếm ``test`` trên web, 
+Hoặc, để tìm kiếm bộ dữ liệukhớp với truy vấn tìm kiếm ``test`` trên web, 
 hãy mở URL này trong trình duyệt của bạn:
 
 http://203.162.141.37:18080/api/3/action/package_search?q=test
 
-.. tip::
- Browser plugins like `JSONView for Firefox <https://addons.mozilla.org/en-us/firefox/addon/jsonview/>`_
- or `Chrome <https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc>`_
- will format and color CKAN's JSON response nicely in your browser.
 
 Truy vấn tìm kiếm được đưa ra dưới dạng tham số URL ``?q=test``. Nhiều tham số URL có thể được gắn vào, 
 phân tách bằng ký tự ``&``, ví dụ để chỉ nhận 5 bộ dữ liệu phù hợp đầu tiên được mở URL này:
