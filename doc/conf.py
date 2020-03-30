@@ -48,17 +48,16 @@ pygments_style = 'sphinx'
 # -----------------------
 
 extra_css_files = ['_static/css/custom.css']
-extra_css_files = ['_static/css/readthedocs-doc-embed.css']
-extra_css_files = ['_static/css/theme.css']
-on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
-# if not on_rtd:
-#     import sphinx_rtd_theme
-#     html_theme = 'sphinx_rtd_theme'
-#     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
-# html_sidebars = {
-#     '**':  ['globaltoc.html'],
-# }
+on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
+if not on_rtd:
+    import sphinx_rtd_theme
+    html_theme = 'sphinx_rtd_theme'
+    html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+
+html_sidebars = {
+    '**':  ['globaltoc.html'],
+}
 
 
 html_static_path = ['_static']
