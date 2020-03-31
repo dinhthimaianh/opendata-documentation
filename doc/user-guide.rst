@@ -123,10 +123,13 @@ chọn nút "Lưu & thêm". Nếu bạn muốn kết thúc quá trình thêm tà
 Bạn sẽ có thể tìm thấy tập dữ liệu của mình bằng cách nhập tiêu đề hoặc một số từ có liên quan từ mô tả vào hộp 
 tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm dữ liệu, hãy xem phần :ref:`finding_data`.
 
+
+
+
 .. _creating_an_organization:
 
 Tạo một tổ chức
-------------------------
+---------------
 Để tạo một tổ chức:
 
 
