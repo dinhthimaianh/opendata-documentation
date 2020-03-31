@@ -68,8 +68,11 @@ Tạo một bộ dữ liệu mới
 
 a) Chọn liên kết "Dữ liệu" ở đầu trang. Từ đây, chọn nút "Thêm bộ dữ liệu".
 
-b) Chọn liên kết "Tổ chức" ở đầu trang. Chọn tổ chức sẽ sở hữu tập dữ liệu mới của bạn, chọn nút "Thêm bộ 
-dữ liệu". 
+b) Chọn liên kết "Tổ chức" ở đầu trang. Chọn tổ chức sẽ sở hữu tập dữ liệu mới của bạn, chọn  
+   nút"Thêm bộ dữ liệu". 
+   select the page for the organization that should own your new dataset. Provided
+   that you are a member of this organization, you can now select the "Add
+   Dataset" button above the search box.
 
 **Bước 2**. Để tạo bộ dữ liệu mới bạn cần cung cấp các thông tin cần thiết sau:
 
@@ -120,6 +123,10 @@ chọn nút "Lưu & thêm". Nếu bạn muốn kết thúc quá trình thêm tà
 Bạn sẽ có thể tìm thấy tập dữ liệu của mình bằng cách nhập tiêu đề hoặc một số từ có liên quan từ mô tả vào hộp 
 tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm dữ liệu, hãy xem phần :ref:`finding_data`.
 
+.. _creating_an_organization:
+
+Tạo một tổ chức
+------------------------
 
 .. _finding_data:
 
