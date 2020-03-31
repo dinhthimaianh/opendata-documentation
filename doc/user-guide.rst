@@ -123,7 +123,6 @@ chọn nút "Lưu & thêm". Nếu bạn muốn kết thúc quá trình thêm tà
 Bạn sẽ có thể tìm thấy tập dữ liệu của mình bằng cách nhập tiêu đề hoặc một số từ có liên quan từ mô tả vào hộp 
 tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm dữ liệu, hãy xem phần :ref:`finding_data`.
 
-
 Chỉnh sửa một tập dữ liệu
 -----------------
 
@@ -141,7 +140,6 @@ Bạn có thể chỉnh sửa tập dữ liệu bạn đã tạo hoặc bất k�
 #. Khi bạn đã hoàn tất, hãy chọn nút "Cập nhật bộ dữ liệu" để lưu các thay đổi.
 
 .. image:: /images/edit-dataset.png
-
 
 Thêm, xóa và chỉnh sửa tài nguyên
 --------------------------------------
