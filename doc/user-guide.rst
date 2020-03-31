@@ -125,7 +125,7 @@ tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm d
 
 
 Chỉnh sửa một tập dữ liệu
-----------------------
+-----------------
 
 Bạn có thể chỉnh sửa tập dữ liệu bạn đã tạo hoặc bất kỳ tập dữ liệu nào thuộc sở hữu của một tổ chức mà bạn là thành viên. 
 (Nếu một tập dữ liệu không thuộc sở hữu của bất kỳ tổ chức nào, thì bất kỳ người dùng nào cũng có thể chỉnh sửa tập dữ liệu này.)
