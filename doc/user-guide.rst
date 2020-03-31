@@ -124,6 +124,39 @@ Bạn sẽ có thể tìm thấy tập dữ liệu của mình bằng cách nh�
 tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm dữ liệu, hãy xem phần :ref:`finding_data`.
 
 
+Chỉnh sửa một tập dữ liệu
+----------------------
+
+Bạn có thể chỉnh sửa tập dữ liệu bạn đã tạo hoặc bất kỳ tập dữ liệu nào thuộc sở hữu của một tổ chức mà bạn là thành viên. 
+(Nếu một tập dữ liệu không thuộc sở hữu của bất kỳ tổ chức nào, thì bất kỳ người dùng nào cũng có thể chỉnh sửa tập dữ liệu này.)
+
+#. Di chuyển đến trang "Dữ liệu". Bạn có thể tìm thấy tập dữ liệu bằng cách nhập tiêu đề vào hộp tìm kiếm.
+
+#. Chọn nút "Quản lý".
+
+#. Hiện thị màn hình "Quản lý". Chỉnh sửa trực tuyến. Bạn có thể chỉnh sửa bất kỳ trường nào (Tiêu đề, Mô tả, 
+    v.v.), thay đổi chế độ hiển thị (Riêng tư/Công khai) và thêm hoặc xóa thẻ hoặc trường tùy chỉnh.
+    Để biết chi tiết về các trường này, xem :ref:`adding_a_new_dataset`.
+
+#. Khi bạn đã hoàn tất, hãy chọn nút "Cập nhật bộ dữ liệu" để lưu các thay đổi.
+
+.. image:: /images/edit-dataset.png
+
+
+Thêm, xóa và chỉnh sửa tài nguyên
+--------------------------------------
+
+#. Chuyển đến trang "Quản lý" của bộ dữ liệu (các bước 1 - 2 ở trên).
+
+#. Chọn nút "Nguồn", có các tùy chọn để chỉnh sửa tài nguyên. Bạn có thể chọn một tài nguyên hiện có
+   (để chỉnh sửa hoặc xóa) hoặc chọn "Thêm tài nguyên mới".
+
+#. Bạn có thể chỉnh sửa thông tin về tài nguyên hoặc thay đổi tệp. Để biết chi tiết, hãy xem các
+   bước 4-5 của :ref:`adding_a_new_dataset` ở trên.
+
+#. Khi bạn chỉnh sửa xong, hãy chọn nút "Cập nhật tài nguyên" (hoặc "Thêm", đối với tạo tài nguyên mới)
+   để lưu các thay đổi của bạn. Ngoài ra, để xóa tài nguyên chọn nút "Xóa".
+
 
 .. _finding_data:
 
