@@ -10,6 +10,7 @@ Ví dụ sử dụng API, ứng dụng của bạn có thể:
 
 * Lấy danh sách định dạng JSON của bộ dữ liệu, nhóm hoặc các đối tượng khác của trang web:
 
+
   http://203.162.141.37:18080/api/3/action/package_list
 
 
@@ -20,6 +21,7 @@ Ví dụ sử dụng API, ứng dụng của bạn có thể:
 
 
 * Lấy một JSON đầy đủ của một bộ dữ liệu, tài nguyên hoặc đối tượng khác:
+
 
   http://203.162.141.37:18080/api/3/action/tag_show?id=giao-duc
 
@@ -32,6 +34,7 @@ Ví dụ sử dụng API, ứng dụng của bạn có thể:
 
 * Tìm kiếm các gói hoặc tài nguyên phù hợp với một truy vấn:
 
+
   http://203.162.141.37:18080/api/3/action/package_search?q=spending
 
 
@@ -41,6 +44,7 @@ Ví dụ sử dụng API, ứng dụng của bạn có thể:
 * Tạo, cập nhật và xóa bộ dữ liệu, tài nguyên và các đối tượng khác
 
 * Lấy một luồng hoạt động của các bộ dữ liệu thay đổi gần đây trên một trang web:
+
 
   http://203.162.141.37:18080/api/3/action/recently_changed_packages_activity_list
 
@@ -62,13 +66,13 @@ Ví dụ một yêu cầu:
 Chức năng GET-able API 
 ----------------------
 
-Các hàm được định nghĩa trong `ckan.logic.action.get`_ cũng có thể được gọi với yêu 
+Các hàm được định nghĩa trong `ckan.logic.action.get` cũng có thể được gọi với yêu 
 cầu HTTP GET. Ví dụ: để lấy danh sách các bộ dữ liệu từ web, hãy 
 mở URL này trong trình duyệt của bạn:
 
 http://203.162.141.37:18080/api/3/action/group_list
 
-Hoặc, để tìm kiếm bộ dữ liệukhớp với truy vấn tìm kiếm ``test`` trên web, 
+Hoặc, để tìm kiếm bộ dữ liệu khớp với truy vấn tìm kiếm ``test`` trên web, 
 hãy mở URL này trong trình duyệt của bạn:
 
 http://203.162.141.37:18080/api/3/action/package_search?q=test
