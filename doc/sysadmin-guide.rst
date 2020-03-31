@@ -7,7 +7,7 @@ Người dùng sysadmin có thể truy cập và chỉnh sửa bất kỳ tổ c
 thay đổi chi tiết người dùng và xóa vĩnh viễn bộ dữ liệu. 
 
 -------------------------
-Tùy chỉnh giạo diện
+Tùy chỉnh giao diện
 -------------------------
 
 Một số tùy chỉnh đơn giản để tùy chỉnh giao diện của trang web của bạn có 
