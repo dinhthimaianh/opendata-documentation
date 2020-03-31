@@ -127,6 +127,8 @@ tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm d
 
 Tạo một tổ chức
 ------------------------
+Để tạo một tổ chức:
+
 
 .. _finding_data:
 
