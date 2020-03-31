@@ -133,9 +133,9 @@ Bạn có thể chỉnh sửa tập dữ liệu bạn đã tạo hoặc bất k�
 
 #. Chọn nút "Quản lý".
 
-#. Hiện thị màn hình "Quản lý". Chỉnh sửa trực tuyến. Bạn có thể chỉnh sửa bất kỳ trường nào (Tiêu đề, Mô tả, 
-    v.v.), thay đổi chế độ hiển thị (Riêng tư/Công khai) và thêm hoặc xóa thẻ hoặc trường tùy chỉnh.
-    Để biết chi tiết về các trường này, xem :ref:`adding_a_new_dataset`.
+#. Hiện thị màn hình "Quản lý". Chỉnh sửa trực tuyến. Bạn có thể chỉnh sửa bất kỳ trường nào (Tiêu đề, Mô tả, v.v.), 
+   thay đổi chế độ hiển thị (Riêng tư/Công khai) và thêm hoặc xóa thẻ hoặc trường tùy chỉnh.
+   Để biết chi tiết về các trường này, xem :ref:`adding_a_new_dataset`.
 
 #. Khi bạn đã hoàn tất, hãy chọn nút "Cập nhật bộ dữ liệu" để lưu các thay đổi.
 
