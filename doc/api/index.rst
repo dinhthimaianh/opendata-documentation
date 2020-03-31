@@ -91,3 +91,23 @@ Các ví dụ API
 ------------
 
 
+Tags 
+==========================
+
+Danh sách tất cả các thẻ (tags):
+
+* trình duyệt: http://203.162.141.37:18080/api/3/action/tag_list
+* curl: ``curl http://203.162.141.37:18080/api/3/action/tag_list``
+* ckanapi: ``ckanapi -r http://203.162.141.37:18080 action tag_list``
+
+Top 10 thẻ (tags) được sử dụng bởi các bộ dữ liệu:
+
+* trình duyệt: http://203.162.141.37:18080/api/action/package_search?facet.field=[%22tags%22]&facet.limit=10&rows=0
+* curl: ``curl 'http://203.162.141.37:18080/api/action/package_search?facet.field=\["tags"\]&facet.limit=10&rows=0'``
+* ckanapi: ``ckanapi -rhttp://203.162.141.37:18080 action package_search facet.field='["tags"]' facet.limit=10 rows=0``
+
+Tất cả các bộ dữ liệu có thẻ (tag) 'giáo dục':
+
+* trình duyệt: http://203.162.141.37:18080/api/3/action/package_search?fq=tags:giao-duc
+* curl: ``curl 'http://203.162.141.37:18080/api/3/action/package_search?fq=tags:giao-duc'``
+* ckanapi: ``ckanapi -r http://203.162.141.37:18080 action package_search fq='tags:giao-duc'``
