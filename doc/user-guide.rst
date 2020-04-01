@@ -232,3 +232,36 @@ Theo mặc định, cho phép các thành viên của các tổ chức có ba va
 
 Tìm kiếm dữ liệu
 ============
+
+---------------
+Tìm kiếm trang web
+---------------
+
+Để tìm bộ dữ liệu, hãy nhập bất kỳ tổ hợp từ tìm kiếm nào (ví dụ: Y tế, Giao thông vận tải, v.v.) 
+vào hộp tìm kiếm trên trang chủ và trên trang dữ liệu. Web sẽ hiện thị trang dữ liệu với các kết quả
+tìm kiếm của bạn.
+
+Nếu có số lượng lớn kết quả,các bộ lọc có thể rất hữu ích, vì bạn có thể kết hợp các bộ lọc, 
+thêm và xóa chúng một cách có chọn lọc, đồng thời sửa đổi và lặp lại tìm kiếm với các bộ lọc hiện có.
+
+.. image:: /images/tim-kiem-du-lieu.png
+
+
+---------------
+Tìm kiếm trong một tổ chức 
+---------------
+
+Nếu bạn muốn tìm kiếm dữ liệu thuộc sở hữu của một tổ chức cụ thể, bạn có thể tìm kiếm các bộ dữ liệu trong 
+tổ chức từ trang chủ của tổ chức đó.
+
+#. Chọn liên kết "Tổ chức" ở đầu trang web.
+
+#. Chọn tổ chức mà bạn muốn tìm kiếm bộ dữ liệu. Web sẽ hiện thị trang chủ của tổ chức.
+
+#. Nhập truy vấn tìm kiếm của bạn vào hộp tìm kiếm trên trang chủ của tổ chức. Kết quả tìm kiếm sẽ 
+   được trả về như bình thường, nhưng bị giới hạn ở bộ dữ liệu từ tổ chức.
+
+Nếu bạn quan tâm đến một tổ chức, bạn có thể chọn để được nhận thông báo về các thay đổi đối với tổ chức đó 
+(chẳng hạn như bộ dữ liệu mới và sửa đổi bộ dữ liệu) bằng cách sử dụng nút "Theo dõi" trên trang của tổ chức. 
+Xem phần :ref:`managing_your_news_feed` dưới đây. Bạn phải có tài khoản người dùng và đăng nhập để sử dụng 
+tính năng theo dõi này.
