@@ -30,9 +30,8 @@ Nếu bộ dữ liệu không thuộc sở hữu của bất kỳ tổ chức n�
 sửa bởi bất kỳ người dùng đã đăng nhập vào.
 
 
-----------
 Đăng ký và đăng nhập
-----------
+======================================
 
 Để tạo ID người dùng, sử dụng link "Đăng ký". Web sẽ yêu cầu như sau:
 
@@ -52,14 +51,14 @@ ask for the following:
 Nếu có vấn đề với bất kỳ trường nào, chúng tôi sẽ cho bạn biết vấn đề và cho phép bạn sửa nó. 
 Khi các trường được điền chính xác, chúng tôi sẽ tạo tài khoản người dùng của bạn và tự động đăng nhập.
 
-----------
+
 Tính năng của người xuất bản
-----------
+======================================
 
 .. _adding_a_new_dataset:
-
+---------------
 Tạo một bộ dữ liệu mới
-==========================
+---------------
 
 
 .. note::
@@ -122,8 +121,10 @@ chọn nút "Lưu & thêm". Nếu bạn muốn kết thúc quá trình thêm tà
 Bạn sẽ có thể tìm thấy tập dữ liệu của mình bằng cách nhập tiêu đề hoặc một số từ có liên quan từ mô tả vào hộp 
 tìm kiếm dữ liệu. Để biết thêm thông tin về việc tìm kiếm dữ liệu, hãy xem phần :ref:`finding_data`.
 
+
+---------------
 Chỉnh sửa một tập dữ liệu
-----------------------
+---------------
 
 Bạn có thể chỉnh sửa tập dữ liệu bạn đã tạo hoặc bất kỳ tập dữ liệu nào thuộc sở hữu của một tổ chức mà bạn là thành viên. 
 (Nếu một tập dữ liệu không thuộc sở hữu của bất kỳ tổ chức nào, thì bất kỳ người dùng nào cũng có thể chỉnh sửa tập dữ liệu này.)
@@ -140,9 +141,9 @@ Bạn có thể chỉnh sửa tập dữ liệu bạn đã tạo hoặc bất k�
 
 .. image:: /images/edit-dataset.png
 
-
+---------------
 Thêm, xóa và chỉnh sửa tài nguyên
---------------------------------------
+---------------
 
 #. Chuyển đến trang "Quản lý" của bộ dữ liệu (các bước 1 - 2 ở trên).
 
