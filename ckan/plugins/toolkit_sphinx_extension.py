@@ -20,7 +20,7 @@ into plugins-toolkit.rst manually before running Sphinx).
 import inspect
 import types
 
-import plugins.toolkit as toolkit
+import ckan.plugins.toolkit as toolkit
 
 
 def setup(app):
