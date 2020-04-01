@@ -283,7 +283,7 @@ Khi chọn bộ dữ liệu, web sẽ hiện thị trang của bộ dữ liệu:
 Các mô tả tài nguyên liên kết đến một trang dành riêng cho mỗi tài nguyên. Trang tài nguyên này 
 bao gồm thông tin về tài nguyên và cho phép tải về. Nhiều loại tài nguyên cũng có thể được xem 
 trước trực tiếp trên trang tài nguyên: Spreadsheets .CSV và .XLS (được xem trước trong chế độ xem dạng 
-lưới), với chế độ xem bản đồ và đồ thị cũng có sẵn nếu dữ liệu phù hợp, hình ảnh, PDF hoặc HTML.
+lưới), với chế độ xem bản đồ và đồ thị có sẵn nếu dữ liệu phù hợp, hình ảnh, PDF hoặc HTML.
 
 Trang dữ liệu cũng có hai tab khác:
 
@@ -300,4 +300,4 @@ Ngoài ra có các tính năng:
 * *Theo dõi* -- nhận thông báo về các thay đổi đối với bộ dữ liệu.
 
 Xem phần :ref:`managing_your_news_feed` dưới đây. Bạn phải có tài khoản người dùng và đăng nhập để sử dụng 
-tính năng theo dõi này.
+các tính năng trên.
