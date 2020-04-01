@@ -91,12 +91,21 @@ possibility of a wiki-like datahub.
     made it impossible for users to create new organizations via the UI. You can
     try out all the features described at http://demo.ckan.org.
 
+<<<<<<< HEAD
 ----------
 Using CKAN
 ----------
 
 Registering and logging in
 ==========================
+=======
+Cách sử dụng
+==========================
+
+----------
+Đăng ký và đăng nhập
+----------
+>>>>>>> parent of c4ab067... Update user-guide.rst
 
 .. note::
 
@@ -133,7 +142,12 @@ Features for publishers
 
 .. _adding_a_new_dataset:
 
+<<<<<<< HEAD
 Adding a new dataset
+=======
+--------------------
+Tạo một bộ dữ liệu mới
+>>>>>>> parent of c4ab067... Update user-guide.rst
 --------------------
 
 .. note::
@@ -239,6 +253,7 @@ select "Next: Additional Info".
 * *Maintainer / maintainer e-mail* -- If necessary, details for a second person
   responsible for the data.
 
+<<<<<<< HEAD
 * *Custom fields* -- If you want the dataset to have another field, you can add
   the field name and value here. E.g. "Year of publication". Note that if there
   is an extra field that is needed for a large number of datasets, you should
@@ -268,6 +283,10 @@ instance. For more information about finding data, see the section
 
 
 Editing a dataset
+=======
+-----------------
+Chỉnh sửa một tập dữ liệu
+>>>>>>> parent of c4ab067... Update user-guide.rst
 -----------------
 
 You can edit the dataset you have created, or any dataset owned by an
@@ -287,8 +306,13 @@ organization, then any registered user can edit it.)
 
 .. image:: /images/edit_dataset.jpg
 
+<<<<<<< HEAD
 
 Adding, deleting and editing resources
+=======
+--------------------------------------
+Thêm, xóa và chỉnh sửa tài nguyên
+>>>>>>> parent of c4ab067... Update user-guide.rst
 --------------------------------------
 
 #. Go to the dataset's "Edit dataset" page (steps 1-2 above).
