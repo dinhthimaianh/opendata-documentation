@@ -30,9 +30,6 @@ Nếu bộ dữ liệu không thuộc sở hữu của bất kỳ tổ chức n�
 sửa bởi bất kỳ người dùng đã đăng nhập vào.
 
 
-Cách sử dụng
-==========================
-
 ----------
 Đăng ký và đăng nhập
 ----------
@@ -62,7 +59,8 @@ Tính năng của người xuất bản
 .. _adding_a_new_dataset:
 
 Tạo một bộ dữ liệu mới
---------------------
+==========================
+
 
 .. note::
     Bạn phải là thành viên của một tổ chức với vai trò là biên tập viên hoặc quản trị viên của tổ chức 
