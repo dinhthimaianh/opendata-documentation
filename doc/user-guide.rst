@@ -261,7 +261,43 @@ tổ chức từ trang chủ của tổ chức đó.
 #. Nhập truy vấn tìm kiếm của bạn vào hộp tìm kiếm trên trang chủ của tổ chức. Kết quả tìm kiếm sẽ 
    được trả về như bình thường, nhưng bị giới hạn ở bộ dữ liệu từ tổ chức.
 
+.. image:: /images/tim-kiem-du-lieu-trong-to-chuc.png
+
 Nếu bạn quan tâm đến một tổ chức, bạn có thể chọn để được nhận thông báo về các thay đổi đối với tổ chức đó 
 (chẳng hạn như bộ dữ liệu mới và sửa đổi bộ dữ liệu) bằng cách sử dụng nút "Theo dõi" trên trang của tổ chức. 
+Xem phần :ref:`managing_your_news_feed` dưới đây. Bạn phải có tài khoản người dùng và đăng nhập để sử dụng 
+tính năng theo dõi này.
+
+---------------
+Khám phá bộ dữ liệu 
+---------------
+
+Khi chọn bộ dữ liệu, web sẽ hiện thị trang của bộ dữ liệu:
+
+* Tên, mô tả và thông tin khác về bộ dữ liệu.
+
+* Link và mô tả ngắn gọn về từng tài nguyên.
+
+.. image:: /images/kham-pha-bo-du-lieu.png
+
+Các mô tả tài nguyên liên kết đến một trang dành riêng cho mỗi tài nguyên. Trang tài nguyên này 
+bao gồm thông tin về tài nguyên và cho phép tải về. Nhiều loại tài nguyên cũng có thể được xem 
+trước trực tiếp trên trang tài nguyên: Spreadsheets .CSV và .XLS (được xem trước trong chế độ xem dạng 
+lưới), với chế độ xem bản đồ và đồ thị cũng có sẵn nếu dữ liệu phù hợp, hình ảnh, PDF hoặc HTML.
+
+Trang dữ liệu cũng có hai tab khác:
+
+* *Chuỗi hoạt động* -- xem lịch sử các thay đổi gần đây của bộ dữ liệu
+
+* *Nhóm* -- xem các nhóm được liên kết với bộ dữ liệu này
+
+Ngoài ra có các tính năng: 
+
+* *Đánh giá* -- đánh giá dữ liệu có hữu ích hay ngược lại
+
+* *Bình luận* -- bình luận ý kiến cá nhân về bộ dữ liệu
+
+* *Theo dõi* -- nhận thông báo về các thay đổi đối với bộ dữ liệu.
+
 Xem phần :ref:`managing_your_news_feed` dưới đây. Bạn phải có tài khoản người dùng và đăng nhập để sử dụng 
 tính năng theo dõi này.
