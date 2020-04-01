@@ -156,6 +156,75 @@ Thêm, xóa và chỉnh sửa tài nguyên
 #. Khi bạn chỉnh sửa xong, hãy chọn nút "Cập nhật tài nguyên" (hoặc "Thêm", đối với tạo tài nguyên mới)
    để lưu các thay đổi của bạn. Ngoài ra, để xóa tài nguyên chọn nút "Xóa".
 
+---------------
+Xóa một tập dữ liệu
+---------------
+
+#. Chuyển đến trang "Quản lý" của bộ dữ liệu (xem Chỉnh sửa một tập dữ liệu ở trên).
+
+#. Chọn nút "Xóa".
+
+#. Hiển thị hộp thoại xác nhận. Để hoàn thành việc xóa bộ dữ liệu, hãy chọn "Xác nhận".
+
+.. note::
+    Với "Xóa" bộ dữ liệu không hoàn toàn bị xóa. Bộ dữ liệu này bị ẩn, do đó, bộ dữ liệu này không hiện thị
+    trong tìm kiếm, v.v. Tuy nhiên, bằng cách truy cập trang của bộ dữ liệu bằng URL, vẫn có thể nhìn thấy.
+    Để xóa vĩnh viễn bộ dữ liệu, hãy liên hệ quản trị viên.
+
+.. _creating_an_organization:
+
+---------------
+Tạo một tổ chức
+---------------
+
+Để tạo một tổ chức:
+
+#. Chọn liên kết "Tổ chức" ở đầu trang web.
+
+#. Chọn nút "Thêm tổ chức".
+
+#. Hiện thị trang "Thêm tổ chức".
+
+#. Nhập tên của tố chức và những thông tin bổ sung tùy chọn: Mô tả, hình ảnh cho trang chủ của tổ chức.
+
+#. Chọn nút "Tạo tổ chức". Sau tạo thành công, hiện thị trang chủ tổ chức vừa tạo. Ban đầu, tổ chức không có bộ dữ liệu. 
+
+.. image:: /images/tao-mot-to-chuc.png
+
+.. note::
+
+    Trường hợp không được cấp quyền thêm tổ chức, hãy liên hệ với quản trị viên. 
+
+
+.. _managing_an_organization:
+
+---------------
+Quản lý tổ chức
+---------------
+
+Nếu được ủy quyền vai trò là quản trị viên tổ chức, trang hiện thị tổ chức đó 
+sẽ hiện thị nút "Quản lý". Khi chọn nút "Quản lý" này sẽ hiện thị trang quản trị
+tổ chức, trang này có ba tab:
+
+* *Hiệu chỉnh* -- Tại đây có thể chỉnh sửa thông tin của tổ chức (tên tổ chức, mô tả và hình ảnh).
+
+* *Dữ liệu* -- Đây là nơi hiện thị tất cả bộ dữ liệu trong quyền sở hữu của tổ chức. Trong đây có các tính năng:
+  Có thể chỉnh sửa chế độ hiện thị của bộ dữ liệu, xóa bộ dữ liệu, thêm bộ dữ liệu cho tổ chức và tìm kiếm
+  bộ dữ liệu.
+
+* *Thành viên* -- Tại đây có thể thêm, xóa và thay đổi vai trò truy cập cho những người 
+  dùng khác nhau trong tổ chức. Lưu ý: Khi thêm thành viên, cần phải biết chính xác tên tài khoản người được thêm,
+  ngoài ra cũng có thể mời người dùng chưa là thành viên của web bằng cách nhập địa chỉ email người được mời.
+
+.. image:: /images/quan-ly-to-chuc.png
+
+Theo mặc định, cho phép các thành viên của các tổ chức có ba vai trò:
+
+* *Thành viên* -- có thể xem bộ dữ liệu riêng tư của tổ chức
+
+* *Biên tập viên* -- có thể chỉnh sửa và xuất bản bộ dữ liệu
+
+* *Quản trị viên* -- có thể thêm, xóa và thay đổi vai trò cho các thành viên tổ chức
 
 
 
