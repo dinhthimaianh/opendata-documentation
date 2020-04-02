@@ -301,3 +301,35 @@ Ngoài ra có các tính năng:
 
 Xem phần :ref:`managing_your_news_feed` dưới đây. Bạn phải có tài khoản người dùng và đăng nhập để sử dụng 
 các tính năng trên.
+
+Thông tin cá nhân
+============
+
+.. note::
+
+    Bạn phải có tài khoản đăng nhập để sử dụng tính năng này. 
+
+
+.. _managing_your_news_feed:
+
+---------------
+Bảng điều khiển
+---------------
+
+Bảng điểu khiển hiện thị 4 tab:
+
+* *Tin tức* -- Hiện thị nguồn cấp thông tin của bạn. Điều này cho thấy các thay đổi đối với các bộ 
+  dữ liệu mà bạn theo dõi và mọi bộ dữ liệu đã thay đổi hoặc mới trong các tổ chức mà bạn theo dõi. 
+  Nếu bạn muốn dừng theo dõi tập dữ liệu (hoặc tổ chức hoặc người dùng), hãy truy cập trang của tập 
+  dữ liệu (ví dụ: bằng cách chọn một liên kết đến tập tin đó trong 'Tin tức' của bạn) và chọn nút 
+  "Không theo dõi".
+
+* *Bộ dữ liệu của tôi* -- Hiện thị tất cả bộ dữ liệu của bạn. 
+
+* *Tổ chức của tôi* -- Hiện thị tất cả tổ chức mà bạn là thành viên. 
+
+* *Nhóm của tôi* -- Hiện thị tất cả nhóm mà bạn là thành viên. 
+
+.. image:: /images/bang-dieu-khien.png
+
+
