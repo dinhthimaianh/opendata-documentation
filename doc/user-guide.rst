@@ -333,3 +333,16 @@ Bảng điểu khiển hiện thị 4 tab:
 .. image:: /images/bang-dieu-khien.png
 
 
+---------------
+Quản lý hồ sơ cá nhân
+---------------
+
+Chọn nút "Cài đặt hiệu chỉnh" trong trang Bảng điều khiển.
+Bạn có thể thay đổi thông tin cá nhân (trừ "Tên tài khoản") bao gồm: Họ và tên, 
+Thư điện tử, thông tin (giới thiệu về cá nhân), mật khẩu. Thực hiện các thay đổi 
+và sau đó chọn nút "Cập nhật lý lịch".
+
+.. image:: /images/chinh-sua-thong-tin-ca-nhan.png
+
+
+
