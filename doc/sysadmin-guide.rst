@@ -87,3 +87,23 @@ Trang này hiển thị tất cả các bộ dữ liệu đã xóa và cho phép
     Hành động này không thể khôi phục.
 
 
+Quản lý người dùng
+======================================
+
+Để tìm hồ sơ người dùng, đi đến ``http://<my-url>/user/``. Bạn có thể tìm kiếm người dùng trong hộp 
+tìm kiếm được cung cấp. Bạn có thể tìm kiếm theo bất kỳ phần nào trong hồ sơ người dùng, bao gồm cả 
+địa chỉ email của người dùng.
+
+Để chỉnh sửa thông tin người dùng: 
+
+* Chọn tên người dùng muốn chỉnh sửa. 
+
+* Trên hồ sơ người dùng, bạn chọn nút "Quản lý".
+
+* Hiển thị trang cài đặt người dùng. Quản trị viên có thể xóa người dùng hoặc thay đổi bất kỳ cài đặt nào, 
+    bao gồm họ và tên, thư điện tử, thông tin và mật khẩu.
+
+.. note:: 
+    Quản trị viên không thể thay đổi tên tài khoản.
+
+.. image:: /images/quan-li-nguoi-dung.png
