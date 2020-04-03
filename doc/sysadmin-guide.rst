@@ -6,9 +6,9 @@ Hướng dẫn này bao gồm các tính quản trị: quản lý người dùng
 Người dùng sysadmin có thể truy cập và chỉnh sửa bất kỳ tổ chức nào, xem và 
 thay đổi chi tiết người dùng và xóa vĩnh viễn bộ dữ liệu. 
 
--------------------------
+
 Tùy chỉnh giao diện
--------------------------
+======================================
 
 Một số tùy chỉnh đơn giản để tùy chỉnh giao diện của trang web của bạn có 
 sẵn thông qua giao diện người dùng, tại ``http://<my-url>/ckan-admin/config/``.
@@ -41,9 +41,9 @@ Thông tin
 Đoạn văn bản giới thiệu
     Văn bản này xuất hiện trên trang chủ của trang web của bạn.
 
------------------------------------
+
 Quản lý tổ chức và bộ dữ liệu
------------------------------------
+======================================
 
 Sysadmin có toàn quyền truy cập vào tài khoản người dùng, tổ chức và bộ dữ liệu. 
 Ví dụ: bạn có quyền truy cập vào mọi tổ chức như thể bạn là thành viên của tổ chức đó. 
@@ -57,11 +57,14 @@ Tương tự, để chỉnh sửa, cập nhật hoặc xóa tập dữ liệu, h
 dụng nút 'Hiệu chỉnh'. Là người dùng quản trị, bạn có thể thấy tất cả các bộ dữ liệu bao gồm 
 cả những bộ trong chế độ riêng tư cho một tổ chức.
 
-Di chuyển một tập dữ liệu giữa các tổ chức
-======================================
+-----------------------------------
+Di chuyển một bộ dữ liệu giữa các tổ chức
+-----------------------------------
 
 Để di chuyển tập dữ liệu giữa các tổ chức, hãy truy cập trang dữ liệu hiệu chỉnh. Chọn mục 
-thích hợp từ danh sách thả xuống của 'Tổ chức', và nhấn vào 'Lưu'.
+thích hợp từ danh sách thả xuống của 'Tổ chức', và nhấn vào 'Cập nhật bộ dữ liệu'.
+
+.. image:: /images/move-dataset.png
 
 -----------------------------
 Xóa vĩnh viễn bộ dữ liệu
@@ -78,4 +81,9 @@ cho bộ dữ liệu mới.
 * Truy cập ``http://<my-url>/ckan-admin/trash/``.
 
 Trang này hiển thị tất cả các bộ dữ liệu đã xóa và cho phép bạn xóa chúng vĩnh viễn. 
+
+.. warning::
+
+    Hành động này không thể khôi phục.
+
 
