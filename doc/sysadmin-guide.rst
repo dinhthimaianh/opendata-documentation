@@ -101,7 +101,7 @@ tìm kiếm được cung cấp. Bạn có thể tìm kiếm theo bất kỳ ph�
 * Trên hồ sơ người dùng, bạn chọn nút "Quản lý".
 
 * Hiển thị trang cài đặt người dùng. Quản trị viên có thể xóa người dùng hoặc thay đổi bất kỳ cài đặt nào, 
-    bao gồm họ và tên, thư điện tử, thông tin và mật khẩu.
+ bao gồm họ và tên, thư điện tử, thông tin và mật khẩu.
 
 .. note:: 
     Quản trị viên không thể thay đổi tên tài khoản.
